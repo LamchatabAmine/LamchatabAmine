@@ -9,7 +9,7 @@ I'm all about crafting elegant and user-friendly websites that leave a lasting i
 - **Languages**: HTML5, CSS3, JavaScript
 - **Frameworks/Libraries**: Bootstrap, jQuery
 - **Back-End**: PHP, Laravel, MySQL
-- **Other**: Git, GitHub
+- **Other**: Git, GitHub, WordPress
 
 
 ## Let's Connect!
